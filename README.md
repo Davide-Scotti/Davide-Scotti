@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Header](https://i.imgur.com/h7gRyfG.png)
-
 ### Ciao, sono Davide Scotti! 👋
 
 Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente mi sto formando come autodidatta dopo aver studiato cybersecurity presso l'Università Statale di Milano.
@@ -31,6 +28,3 @@ Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente 
 - 📧 Email: scotti.17115@gmail.com
 - 🌐 LinkedIn: [[Davide Scotti](https://www.linkedin.com/in/davide-scotti-711076237/)]
 - 📱 Instagram: [[T.me/DavideScotti](https://www.instagram.com/davo_03_/)]
-
-<!-- Footer -->
-![Footer](https://i.imgur.com/X5J3hMW.png)
