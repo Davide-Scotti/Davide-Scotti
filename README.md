@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Davide-Scotti
-- 👀 I’m interested in web developing and computer programming
-- 🌱 I am currently learning React, NodeJs and studing cybersecurity at Milan
-- 💞️ I am looking to collaborate on the creation of .NET application and Web Service
-- 📫 How to reach me scotti.17115@gmail.com
+<!-- Banner -->
+![Header](https://i.imgur.com/h7gRyfG.png)
 
-<!---
-Davide-Scotti/Davide-Scotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Ciao, sono Davide Scotti! 👋
+
+Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente mi sto formando come autodidatta dopo aver studiato cybersecurity presso l'Università Statale di Milano.
+
+### Cosa mi interessa:
+- 💻 Sviluppo web e programmazione
+- 🔐 Hacking etico e cybersecurity
+- 📱 Apprendimento di React, Node.js e sicurezza informatica
+
+### Progetti in corso:
+- 🌐 Creazione di web server Node.js con vulnerabilità simulate
+- 🛡️ Sviluppo e analisi di blockchain personalizzate
+- 🃏 Creazione di giochi come BJ Poker e Briscola Chiamata
+
+### Competizioni e sfide:
+- 🏆 Partecipazione a hackathon e olimpiadi di informatica
+- 🚀 Miglior risultato: qualificazione alla fase regionale delle Olimpiadi di Informatica
+
+### Esperienza professionale:
+- 💼 Programmatore presso un'azienda metalmeccanica
+- ⚙️ Utilizzo di .NET e C# per sviluppo di utility e servizi Windows
+
+### Tecnologie e strumenti che utilizzo:
+- 🛠️ Linguaggi: JavaScript, Node.js, C#, Python, HTML, CSS, Bash, Java
+- 🖥️ Strumenti: VS Code, Kali Linux, Oracle, Windows Server, Ubuntu Server, Git Extension
+
+### Contattami:
+- 📧 Email: scotti.17115@gmail.com
+- 🌐 LinkedIn: [[Davide Scotti](https://www.linkedin.com/in/davide-scotti-711076237/)]
+- 📱 Instagram: [[T.me/DavideScotti](https://www.instagram.com/davo_03_/)]
+
+<!-- Footer -->
+![Footer](https://i.imgur.com/X5J3hMW.png)
