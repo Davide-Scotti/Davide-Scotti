@@ -1,6 +1,6 @@
 ### Ciao, sono Davide Scotti! 👋
 
-Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente mi sto formando come autodidatta dopo aver studiato cybersecurity presso l'Università Statale di Milano.
+Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente mi sto formando come autodidatta dopo aver studiato (per due anni) cybersecurity presso l'Università Statale di Milano.
 
 ### Cosa mi interessa:
 - 💻 Sviluppo web e programmazione
