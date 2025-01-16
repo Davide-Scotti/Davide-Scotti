@@ -17,14 +17,14 @@ Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente 
 - 🚀 Miglior risultato: qualificazione alla fase regionale delle Olimpiadi di Informatica
 
 ### Esperienza professionale:
-- 💼 Programmatore presso un'azienda metalmeccanica
-- ⚙️ Utilizzo di .NET e C# per sviluppo di utility e servizi Windows
+- 💼 Programmatore presso SEI Laser s.p.a.
+- ⚙️ Utilizzo di .NET e C# ed ubuntu server per sviluppo di utility, servizi Windows, e operazioni sul server aziendale.
 
 ### Tecnologie e strumenti che utilizzo:
-- 🛠️ Linguaggi: JavaScript, Node.js, C#, Python, HTML, CSS, Bash, Java
-- 🖥️ Strumenti: VS Code, Kali Linux, Oracle, Windows Server, Ubuntu Server, Git Extension
+- 🛠️ Linguaggi: JavaScript, Node.js, C#, Python, HTML, CSS, Bash, Java, C++, C, WPF
+- 🖥️ Strumenti: VS, VS Code, Kali Linux, Oracle, Windows Server, Ubuntu Server, Git Extension
 
 ### Contattami:
-- 📧 Email: scotti.17115@gmail.com
+- 📧 Email: scotti.17115@gmail.com | dscotti@seilaser.com
 - 🌐 LinkedIn: [[Davide Scotti](https://www.linkedin.com/in/davide-scotti-711076237/)]
-- 📱 Instagram: [[Davide Scotti](https://www.instagram.com/davo_03_/)]
+- 📱 Instagram: [[Davide Scotti](https://www.instagram.com/davidescottii/)]
