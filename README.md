@@ -5,12 +5,13 @@ Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente 
 ### Cosa mi interessa:
 - 💻 Sviluppo web e programmazione
 - 🔐 Hacking etico e cybersecurity
-- 📱 Apprendimento di React, Node.js e sicurezza informatica
+- 📱 Apprendimento di React, Node.js, sicurezza informatica, wpf
 
 ### Progetti in corso:
 - 🌐 Creazione di web server Node.js con vulnerabilità simulate
 - 🛡️ Sviluppo e analisi di blockchain personalizzate
 - 🃏 Creazione di giochi come BJ Poker e Briscola Chiamata
+- 👨🏼‍💻 Sviluppo di applicazioni WPF .NET
 
 ### Competizioni e sfide:
 - 🏆 Partecipazione a hackathon e olimpiadi di informatica
@@ -18,11 +19,11 @@ Sono appassionato di programmazione, cybersecurity e hacking etico. Attualmente 
 
 ### Esperienza professionale:
 - 💼 Programmatore presso SEI Laser s.p.a.
-- ⚙️ Utilizzo di .NET e C# ed ubuntu server per sviluppo di utility, servizi Windows, e operazioni sul server aziendale.
+- ⚙️ Utilizzo di .NET e C# ed ubuntu server per sviluppo di utility, applicazioni software, servizi Windows, e operazioni sul server aziendale.
 
 ### Tecnologie e strumenti che utilizzo:
 - 🛠️ Linguaggi: JavaScript, Node.js, C#, Python, HTML, CSS, Bash, Java, C++, C, WPF
-- 🖥️ Strumenti: VS, VS Code, Kali Linux, Oracle, Windows Server, Ubuntu Server, Git Extension
+- 🖥️ Strumenti: VS, VS Code, Kali Linux, Oracle, Windows Server, Ubuntu Server, Git
 
 ### Contattami:
 - 📧 Email: scotti.17115@gmail.com | dscotti@seilaser.com
